@@ -1,0 +1,15 @@
+Python Useful links:
+
+If you like to read:
+   [Official Python Documentation]  https://docs.python.org/3/tutorial/index.html
+   [My fave textbook tbh] Head First Python
+
+Followed by practice: (All these don't require a compiler tbh)
+   http://www.codestepbystep.com/
+   Textbook questions
+
+Lee Yeow Leong Video Tutorials:
+https://www.youtube.com/playlist?list=PL5SOnI9S2zZl_1urkfT4-jwGFeMV6_e1Z
+
+Style Guide for Python
+https://www.python.org/dev/peps/pep-0008/#fn-hi
